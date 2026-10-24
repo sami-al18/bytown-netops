@@ -1,0 +1,5 @@
+Q1: e4a4bf0 — Enable SNMP read-only
+Q2: 2
+Q3: Q3: git pull --rebase — fetches the teammate's changes and then reapplies my local commits on top of them.
+Q4: No — .gitignore does not remove an already-committed file or protect a password already pushed.
+Q5: git branch -d old-fix; git push origin --delete old-fix
